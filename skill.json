@@ -1,0 +1,15 @@
+{
+  "name": "genpark-smoothed-particle-hydrodynamics-sph-skill",
+  "version": "1.0.0",
+  "description": "Smoothed Particle Hydrodynamics (SPH) Lagrangian fluid engine with cubic spline smoothing kernels, density summation, and equation-of-state pressure.",
+  "tags": [
+    "genpark-skill",
+    "agentic-ai",
+    "sph",
+    "particle-hydrodynamics",
+    "fluid-simulation",
+    "computational-physics"
+  ],
+  "entrypoint": "client.py",
+  "dependencies": []
+}
